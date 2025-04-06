@@ -1,0 +1,40 @@
+Store: A
+Locate: A
+Milk
+120
+34.5
+Store: B
+Locate: B
+Milk
+30
+31.5
+Store: C
+Locate: C
+Milk
+70
+35.5
+Store: D
+Locate: D
+Milk
+14
+34.5
+Store: E
+Locate: E
+Bread
+85
+28.0
+Store: F
+Locate: F
+Milk
+90
+33.0
+Store: G
+Locate: G
+Cheese
+45
+75.2
+Store: H
+Locate: H
+Bread
+60
+27.9
